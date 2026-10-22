@@ -1,0 +1,9 @@
+{
+  "name": "earnflex-backend-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EarnFlex Netlify Functions backend starter",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0"
+  }
+}
